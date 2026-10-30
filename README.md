@@ -988,18 +988,6 @@ I am comfortable with a role involving approximately 40% manual operational work
 
 ---
 
-## 28. Author
-
-**Name:** Your Full Name
-
-**Role:** AI Engineer Intern Candidate
-
-**LinkedIn:** Your LinkedIn Profile
-
-**GitHub:** Your GitHub Profile
-
----
-
 ## 29. License
 
 This project was created as a technical take-home assignment for evaluation purposes.
