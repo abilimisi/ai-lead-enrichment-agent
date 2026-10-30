@@ -1,0 +1,80 @@
+[
+  {
+    "company_overview": "Cint is a global research marketplace that connects researchers, advertisers, and brands to millions of respondents across 130 countries, enabling continuous market research and real-time measurement. It offers tools such as Cint Exchange, Lucid Measurement, and programmatic survey monetization to deliver high‑quality insights at scale.",
+    "target_audience": "Researchers, advertisers, and brands that need continuous market research, campaign measurement, and access to a global, high‑quality respondent pool.",
+    "contact_points": [],
+    "leadership": [
+      {
+        "name": "Alana Devitt",
+        "role": "Research Consultant, Core Data",
+        "linkedin_url": null,
+        "source": "https://www.cint.com/"
+      },
+      {
+        "name": "Ryan Gillis",
+        "role": "Associate Director of Research and Insights, Tripadvisor",
+        "linkedin_url": null,
+        "source": "https://www.cint.com/"
+      },
+      {
+        "name": "Mike Conte",
+        "role": "Director of Survey Solutions, Marist Poll",
+        "linkedin_url": null,
+        "source": "https://www.cint.com/"
+      },
+      {
+        "name": "Patrick Comer",
+        "role": "CEO",
+        "linkedin_url": "https://www.linkedin.com/in/comerpatrick",
+        "source": "https://www.cint.com/"
+      },
+      {
+        "name": "Michelle Darcy Clarke",
+        "role": "Cint",
+        "linkedin_url": "https://www.linkedin.com/in/michelle-darcy-clarke-b30767b",
+        "source": "https://www.cint.com/"
+      },
+      {
+        "name": "Bee Meuwissen",
+        "role": "Cint",
+        "linkedin_url": null,
+        "source": "https://www.cint.com/"
+      },
+      {
+        "name": "Kathryn Failon",
+        "role": "Cint",
+        "linkedin_url": "https://www.linkedin.com/in/kathrynfailon",
+        "source": "https://www.cint.com/"
+      },
+      {
+        "name": "Phil Ahad",
+        "role": "Managing Director of Data at Cint",
+        "linkedin_url": "https://www.linkedin.com/in/philahad",
+        "source": "https://www.cint.com/"
+      },
+      {
+        "name": "Chris Pope",
+        "role": "Cint",
+        "linkedin_url": null,
+        "source": "https://www.cint.com/"
+      },
+      {
+        "name": "Josh Lebovitz",
+        "role": "Digitas",
+        "linkedin_url": null,
+        "source": "https://www.cint.com/"
+      },
+      {
+        "name": "Imran Anjam",
+        "role": "Cint data scientist",
+        "linkedin_url": "https://www.linkedin.com/in/imran-anjam-9a4078106",
+        "source": "https://www.cint.com/"
+      }
+    ],
+    "sources": [
+      "https://www.cint.com/"
+    ],
+    "domain": "cint.com",
+    "confidence_score": 0.85
+  }
+]
